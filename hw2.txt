@@ -9,7 +9,7 @@ Assignment is:
 
 Edit below:
 Person A's Name: Michael Ferrin
-Person B's Name:
+Person B's Name: Yejin Angela Kwon
 
 Question for A:
 1) What does git clone do?
@@ -20,7 +20,7 @@ A remote repository is the version of your repository that does not live on your
 
 Question for B:
 1) Why is version-control framework such as git important?
-PUT YOUR ANSWER HERE
+Version-control framework is important because when working in teams, it's crucial to be able to access all different kinds of versions of the project.
 
 2) Explain the concept of branching in git
-PUT YOUR ANSWER HERE
+If you and a partner want to work on the same project in git, branching allows each person to make their own edits to later bring them back together and have a more polished original file. Without branching, any edits made on the original file would affect both coders and could cause confusion.
