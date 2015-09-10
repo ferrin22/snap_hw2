@@ -9,7 +9,7 @@ Assignment is:
 
 Edit below:
 Person A's Name: Michael Ferrin
-Person B's Name: 
+Person B's Name:
 
 Question for A:
 1) What does git clone do?
